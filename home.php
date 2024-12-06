@@ -1,0 +1,837 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+    <head>
+        <!-- Meta Tags -->
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="keywords" content="Site keywords here">
+		<meta name="description" content="">
+		<meta name='copyright' content=''>
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		
+		<!-- Title -->
+        <title>SANJIVANI ORGANICS LAKDI GHANA OILS</title>
+		
+		<!-- Favicon -->
+        <link rel="icon" href="img/favicon.png">
+		
+		<!-- Google Fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
+		<script src="https://kit.fontawesome.com/524774782e.js" crossorigin="anonymous"></script>
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/newstyle.css">
+		<!-- Nice Select CSS -->
+		<link rel="stylesheet" href="css/nice-select.css">
+		<!-- Font Awesome CSS -->
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+		<!-- icofont CSS -->
+        <link rel="stylesheet" href="css/icofont.css">
+		<!-- Slicknav -->
+		<link rel="stylesheet" href="css/slicknav.min.css">
+		<!-- Owl Carousel CSS -->
+        <link rel="stylesheet" href="css/owl-carousel.css">
+		<!-- Datepicker CSS -->
+		<link rel="stylesheet" href="css/datepicker.css">
+		<!-- Animate CSS -->
+        <link rel="stylesheet" href="css/animate.min.css">
+		<!-- Magnific Popup CSS -->
+        <link rel="stylesheet" href="css/magnific-popup.css">
+		
+		<!-- Medipro CSS -->
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="css/responsive.css">
+		<!-- Bootstrap 5 CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Bootstrap Icons for Stars -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+		
+    </head>
+    <body>
+		
+	
+		<!-- Preloader -->
+        <div class="preloader">
+            <div class="loader">
+                <div class="loader-outter"></div>
+                <div class="loader-inner"></div>
+
+                <div class="indicator"> 
+                    <svg width="16px" height="12px">
+                        <polyline id="back" points="1 6 4 6 6 11 10 1 12 6 15 6"></polyline>
+                        <polyline id="front" points="1 6 4 6 6 11 10 1 12 6 15 6"></polyline>
+                    </svg>
+                </div>
+            </div>
+        </div>
+        <!-- End Preloader -->
+		
+		<!-- Get Pro Button -->
+		<!-- <ul class="pro-features">
+			<a class="get-pro" href="#">Get Pro</a>
+			<li class="big-title">Pro Version Available on Themeforest</li>
+			<li class="title">Pro Version Features</li>
+			<li>2+ premade home pages</li>
+			<li>20+ html pages</li>
+			<li>Color Plate With 12+ Colors</li>
+			<li>Sticky Header / Sticky Filters</li>
+			<li>Working Contact Form With Google Map</li>
+			<div class="button">
+				<a href="http://preview.themeforest.net/item/mediplus-medical-and-doctor-html-template/full_screen_preview/26665910?_ga=2.145092285.888558928.1591971968-344530658.1588061879" target="_blank" class="btn">Pro Version Demo</a>
+				<a href="https://themeforest.net/item/mediplus-medical-and-doctor-html-template/26665910" target="_blank" class="btn">Buy Pro Version</a>
+			</div>
+		</ul> -->
+	
+		
+		<!-- Slider Area -->
+		<section class="slider">
+			<div class="hero-slider">
+				<!-- Start Single Slider -->
+				<div class="single-slider" style="background-image:url('img/slidernew1.png')">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-7">
+								<div class="text">
+								<h1>We Offer <span>Pure</span> Lakdi Ghana Oils You Can <span>Trust!</span></h1>
+								<p class="shadow">Experience the authentic goodness of traditionally crafted oils. Our cold-pressed process preserves the natural nutrients, delivering purity and quality in every drop.</p>
+									<div class="button">
+										<a href="https://wa.me/917588009091?text=Hi%2C%20I%20am%20interested%20in%20your%20products.%20Please%20provide%20more%20details." target="_blank" class="btn"><i class="fa-brands fa-whatsapp"></i> Whatsapp US for Order</a>
+										<!-- <a href="#" class="btn primary">Learn More</a> -->
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- End Single Slider -->
+				<!-- Start Single Slider -->
+				<div class="single-slider" style="background-image:url('img/slidernew.gif')"> 
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-7">
+								<div class="text">
+								<h1>We Provide <span>Pure</span> Cooking Oils You Can <span>Trust!</span></h1>
+								<p>Our traditionally crafted Lakdi Ghana cooking oils are available in convenient sizes: 500ml, 1L, and 5L. Experience the essence of purity and nutrition with every drop!</p>
+									<div class="button">
+										<a href="https://wa.me/917588009091?text=Hi%2C%20I%20am%20interested%20in%20your%20products.%20Please%20provide%20more%20details." target="_blank" class="btn"><i class="fa-brands fa-whatsapp"></i> Whatsapp Us to Order</a>
+										<!-- <a href="#" class="btn primary">About Us</a> -->
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>   		
+				<!-- Start End Slider -->
+				<!-- Start Single Slider -->
+				<!-- <div class="single-slider" style="background-image:url('img/slider3.jpg')">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-7">
+								<div class="text">
+									<h1>We Provide <span>Medical</span> Services That You Can <span>Trust!</span></h1>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed nisl pellentesque, faucibus libero eu, gravida quam. </p>
+									<div class="button">
+										<a href="#" class="btn">Get Appointment</a>
+										<a href="#" class="btn primary">Conatct Now</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div> -->
+				<!-- End Single Slider -->
+			</div>
+		</section>
+		<!--/ End Slider Area -->
+		
+		<!-- Start Schedule Area
+		<section class="schedule">
+			<div class="container">
+				<div class="schedule-inner">
+					<div class="row">
+						<div class="col-lg-4 col-md-6 col-12 ">
+							single-schedule
+							<div class="single-schedule first">
+								<div class="inner">
+									<div class="icon">
+										<i class="fa fa-ambulance"></i>
+									</div>
+									<div class="single-content">
+										<span>Lorem Amet</span>
+										<h4>Emergency Cases</h4>
+										<p>Lorem ipsum sit amet consectetur adipiscing elit. Vivamus et erat in lacus convallis sodales.</p>
+										<a href="#">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6 col-12">
+							single-schedule
+							<div class="single-schedule middle">
+								<div class="inner">
+									<div class="icon">
+										<i class="icofont-prescription"></i>
+									</div>
+									<div class="single-content">
+										<span>Fusce Porttitor</span>
+										<h4>Doctors Timetable</h4>
+										<p>Lorem ipsum sit amet consectetur adipiscing elit. Vivamus et erat in lacus convallis sodales.</p>
+										<a href="#">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-12 col-12">
+							single-schedule
+							<div class="single-schedule last">
+								<div class="inner">
+									<div class="icon">
+										<i class="icofont-ui-clock"></i>
+									</div>
+									<div class="single-content">
+										<span>Donec luctus</span>
+										<h4>Opening Hours</h4>
+										<ul class="time-sidual">
+											<li class="day">Monday - Fridayp <span>8.00-20.00</span></li>
+											<li class="day">Saturday <span>9.00-18.30</span></li>
+											<li class="day">Monday - Thusday <span>9.00-15.00</span></li>
+										</ul>
+										<a href="#">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		/End Start schedule Area -->
+<br>
+<br>
+
+<div class="responsive-container-block bigContainer">
+  <div class="responsive-container-block Container bottomContainer">
+    <div class="ultimateImg">
+      <img class="mainImg" src="./img/sanjivani-lakdi-ghana-oils-pune-185wkvddq6.jpg">
+      <div class="purpleBox">
+        <p class="purpleText"> 
+		Very nice wood pressed oils. I always purchase oils from Sanjivani Organics. Quality, service is best. Prices are comparatively reasonable.
+        </p>
+        <img class="stars" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/mp5.svg">
+      </div>
+    </div>
+    <div class="allText bottomText">
+      <p class="text-blk headingText">
+        About Us
+</p>
+      <p class="text-blk description">
+	  Sanjivani Organics Lakdi Ghana Pune is your trusted source for pure, wood-pressed oils made using traditional wooden Ghani methods. We specialize in high-quality, wood-pressed oils such as Groundnut, Safflower, Sunflower, Sesame, Coconut, Mustard—crafted without heat or chemicals to preserve their natural nutrients. Our commitment to purity, authenticity, and wellness is evident in every drop. Experience the benefits of wholesome, unrefined oils that support a healthy lifestyle and elevate your cooking. Visit us for a truly natural taste and wellness experience! संजीवनी ऑर्गॅनिक्स लाकडी घाणा पुणे येथे तुम्हाला शुद्ध, पारंपारिक लाकडी घाण्याने तयार केलेले तेल मिळेल. आमची शुद्धता, पारंपारिकता आणि आरोग्याची बांधिलकी प्रत्येक थेंबात जाणवते.
+      </p>
+      
+    </div>
+  </div>
+</div>
+
+<br><br>
+
+		<!-- Start Feautes -->
+		<section class="Feautes section">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="section-title">
+							<h2>We Are Committed to Bringing Health and Purity to Your Kitchen </h2>	
+							<img src="img/section-img.png" alt="#">
+							<p style="color:black">Our mission is to provide you with 100% pure, cold-pressed oils that preserve the natural goodness of seeds. At SANJIVANI ORGANICS, we ensure every drop brings health, taste, and quality to your kitchen, supporting a healthier lifestyle for you and your family.</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-4 col-12">
+						<!-- Start Single features -->
+						<div class="single-features">
+							<div class="signle-icon">
+								<i class="icofont icofont-heart-beat-alt"></i>
+							</div>
+							<h3>Health Assurance</h3>
+							<p>Represents our commitment to providing oils that support a healthy and vibrant lifestyle.</p>
+						</div>
+						<!-- End Single features -->
+					</div>
+					<div class="col-lg-4 col-12">
+						<!-- Start Single features -->
+						<div class="single-features">
+							<div class="signle-icon">
+								<i class="icofont icofont-cart-alt"></i>
+							</div>
+							<h3>Easy Shopping</h3>
+							<p>Ensures a seamless and convenient shopping experience for our customers</p>
+						</div>
+						<!-- End Single features -->
+					</div>
+					<div class="col-lg-4 col-12">
+						<!-- Start Single features -->
+						<div class="single-features last">
+							<div class="signle-icon">
+								<i class="icofont icofont-fast-delivery"></i>
+							</div>
+							<h3>Quick Delivery</h3>
+							<p>Highlights our promise to deliver products swiftly to your doorstep, maintaining freshness</p>
+						</div>
+						<!-- End Single features -->
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--/ End Feautes -->
+<!-- 		
+		Start Fun-facts
+		<div id="fun-facts" class="fun-facts section overlay">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-3 col-md-6 col-12">
+						Start Single Fun
+						<div class="single-fun">
+							<i class="icofont icofont-home"></i>
+							<div class="content">
+								<span class="counter">3468</span>
+								<p>Hospital Rooms</p>
+							</div>
+						</div>
+						End Single Fun
+					</div>
+					<div class="col-lg-3 col-md-6 col-12">
+						Start Single Fun
+						<div class="single-fun">
+							<i class="icofont icofont-user-alt-3"></i>
+							<div class="content">
+								<span class="counter">557</span>
+								<p>Specialist Doctors</p>
+							</div>
+						</div>
+						End Single Fun
+					</div>
+					<div class="col-lg-3 col-md-6 col-12">
+						Start Single Fun
+						<div class="single-fun">
+							<i class="icofont-simple-smile"></i>
+							<div class="content">
+								<span class="counter">4379</span>
+								<p>Happy Patients</p>
+							</div>
+						</div>
+						End Single Fun
+					</div>
+					<div class="col-lg-3 col-md-6 col-12">
+						Start Single Fun
+						<div class="single-fun">
+							<i class="icofont icofont-table"></i>
+							<div class="content">
+								<span class="counter">32</span>
+								<p>Years of Experience</p>
+							</div>
+						</div>
+						End Single Fun
+					</div>
+				</div>
+			</div>
+		</div>
+		/ End Fun-facts
+		 -->
+
+		 
+		<!-- Start Call to action -->
+		<section class="call-action overlay" data-stellar-background-ratio="0.5">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12 col-md-12 col-12">
+						<div class="content">
+							<h2>Do you need Pure and Healthy Cooking Oil? Call +91  75880 09091</h2>
+							<p>Our oils are cold-pressed to retain natural nutrients and flavors, ensuring health in every drop</p>
+							<div class="button">
+								<a href="#" class="btn">Contact Now</a>
+								<!-- <a href="#" class="btn second">Learn More<i class="fa fa-long-arrow-right"></i></a> -->
+							</div>
+						</div>
+					</div>  
+				</div>
+			</div>
+		</section>
+		<!--/ End Call to action -->
+
+		<!-- Start Why choose -->
+		<section class="why-choose section" >
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="section-title">
+							<h2>Pure, natural, and nutrient-rich oils crafted with care.</h2>
+							<img src="img/section-img.png" alt="#">
+							<!-- <p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p> -->
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-6 col-12">
+						<!-- Start Choose Left -->
+						<div class="choose-left">
+							<h3>Who We Are</h3>
+							<p>At SANJIVANI ORGANICS, we prioritize your health and well-being by offering cold-pressed oils that are 100% natural and unrefined. Our oils retain their natural nutrients and flavors, ensuring a healthier and tastier experience. With a focus on purity and sustainability, we bring you the finest quality oils that support a healthier lifestyle for you and your family.</p>
+							<div class="row">
+								<div class="col-lg-6">
+									<ul class="list">
+										<li><i class="fa fa-caret-right"></i>100% Cold-Pressed:</li>
+										<li><i class="fa fa-caret-right"></i>Chemical-Free.</li>
+										<li><i class="fa fa-caret-right"></i>Nutrient-Rich.</li>
+									</ul>
+								</div>
+								<div class="col-lg-6">
+									<ul class="list">
+										<li><i class="fa fa-caret-right"></i>Sustainably Produced </li>
+										<li><i class="fa fa-caret-right"></i>Versatile Usage</li>
+										<li><i class="fa fa-caret-right"></i>Locally Sourced.</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<!-- End Choose Left -->
+					</div>
+					<div class="col-lg-6 col-12">
+						<!-- Start Choose Rights -->
+						<div class="choose-right">
+							<div class="video-image">
+								<!-- Video Animation -->
+								<!-- <div class="promo-video">
+									<div class="waves-block">
+										<div class="waves wave-1"></div>
+										<div class="waves wave-2"></div>
+										<div class="waves wave-3"></div>
+									</div>
+								</div> -->
+								<!--/ End Video Animation -->
+								<!-- <a href="https://www.youtube.com/watch?v=RFVXy6CRVR4" class="video video-popup mfp-iframe"><i class="fa fa-play"></i></a> -->
+							</div>
+						</div>
+						<!-- End Choose Rights -->
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--/ End Why choose -->
+		
+
+<!-- 
+		<div class="container my-5">
+    Heading and Description
+    <div class="text-center mb-4">
+	<div class="section-title">
+							<h2>What Our Customers Say</h2>
+							<img src="img/section-img.png" alt="#">
+							<p>Testimonials reflect the trust and satisfaction of our customers, showcasing the quality of our products and services.</p>
+						</div>
+
+        
+
+    Testimonial Carousel
+    <div id="testimonialCarousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            Testimonial Item 1
+            <div class="carousel-item active">
+                <div class="testimonial text-center">
+                    <img src="img/testimonial-1.png" class="rounded-circle mb-3" alt="Customer Photo" width="100">
+                    <h5 class="customer-name">Ajinkya Bhalerao</h5>
+                    <p class="customer-review">
+                        "The groundnut cold pressed oil is really good, have been using since 2 years now. Will surely recommend it to others as well."
+                    </p>
+                    <div class="stars">
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-half text-warning"></i>
+                    </div>
+                </div>
+            </div>
+            Testimonial Item 2
+            <div class="carousel-item">
+                <div class="testimonial text-center">
+                    <img src="img/testimonial-4.png" class="rounded-circle mb-3" alt="Customer Photo" width="100">
+                    <h5 class="customer-name">Shivam More</h5>
+                    <p class="customer-review">
+                        "I have been using their groundnut and sesame cold press oil since 2 years. There's 100% product quality assurance since the oil extraction process is done right in front of us when we place the order. Recommended place for buying cold press oil!"
+                    </p>
+                    <div class="stars">
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                    </div>
+                </div>
+            </div>
+            Testimonial Item 3
+
+			<div class="carousel-item">
+                <div class="testimonial text-center">
+                    <img src="img/testimonial-3.png" class="rounded-circle mb-3" alt="Customer Photo" width="100">
+                    <h5 class="customer-name">Pooja Bhosale</h5>
+                    <p class="customer-review">
+                        "We have been using the cold pressed oil from here since years. With no doubt will continue using further as it's healthy and need of the hour. They provide it with a reasonable rates. Along with oil other organic products like salt, turmeric, etc are also available.  Do visit them and get yourself some healthy and organic stuffs."
+                    </p>
+                    <div class="stars">
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    Carousel Controls
+    <button class="carousel-control-prev" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+</div>
+</div> -->
+
+
+		<!-- Start Testimonials -->
+		<section class="section testimonials overlay" data-stellar-background-ratio="0.5">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="section-title">
+							<h2>What Our Patients Say About Our Medical Treatments</h2>
+							<img src="img/section-img.png" alt="#">
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-12 col-12">
+						<div class="owl-carousel testimonial-slider">
+							<!-- Start Single Testimonial -->
+							<div class="single-testimonial">
+								<img src="img/testimonial-1.png" alt="#">
+								<p>The groundnut cold pressed oil is really good, have been using since 2 years now. Will surely recommend it to others as well.</p>
+								<h4 class="name">Ajinkya Bhalerao</h4>
+								<div class="stars">
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-half text-warning"></i>
+                    </div>
+							</div>
+							<!-- End Single Testimonial -->
+							<!-- Start Single Testimonial -->
+							<div class="single-testimonial">
+								<img src="img/testimonial-1.png" alt="#">
+								<p>Lorem ipsum dolor sit amet consectetur eliet adipiscing. Aliquam nec suscipit turpis, vel pretium eros. </p>
+								<h4 class="name">Shakil Hossain</h4>
+								<div class="stars">
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-half text-warning"></i>
+                    </div>
+							</div>
+							<!-- End Single Testimonial -->
+							<!-- Start Single Testimonial -->
+							<div class="single-testimonial">
+								<img src="img/testimonial-1.png" alt="#">
+								<p>Lorem ipsum dolor sit amet consectetur eliet adipiscing. Aliquam nec suscipit turpis, vel pretium eros. </p>
+								<h4 class="name">Naimur Rahman</h4>
+								<div class="stars">
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-half text-warning"></i>
+                    </div>
+							</div>
+							<!-- End Single Testimonial -->
+							<!-- Start Single Testimonial -->
+							<div class="single-testimonial">
+								<img src="img/testimonial-1.png" alt="#">
+								<p>Lorem ipsum dolor sit amet consectetur eliet adipiscing. Aliquam nec suscipit turpis, vel pretium eros. </p>
+								<h4 class="name">Ruhfayed Sakib</h4>
+								<div class="stars">
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-half text-warning"></i>
+                    </div>
+							</div>
+							<!-- End Single Testimonial -->
+							<!-- Start Single Testimonial -->
+							<div class="single-testimonial">
+								<img src="img/testimonial-1.png" alt="#">
+								<p>Lorem ipsum dolor sit amet consectetur eliet adipiscing. Aliquam nec suscipit turpis, vel pretium eros. </p>
+								<h4 class="name">Shakil Hossain</h4>
+								<div class="stars">
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-half text-warning"></i>
+                    </div>
+							</div>
+							<!-- End Single Testimonial -->
+							<!-- Start Single Testimonial -->
+							<div class="single-testimonial">
+								<img src="img/testimonial-1.png" alt="#">
+								<p>Lorem ipsum dolor sit amet consectetur eliet adipiscing. Aliquam nec suscipit turpis, vel pretium eros. </p>
+								<h4 class="name">Naimur Rahman</h4>
+								<div class="stars">
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-half text-warning"></i>
+                    </div>
+							</div>
+							<!-- End Single Testimonial -->
+							<!-- Start Single Testimonial -->
+							<div class="single-testimonial">
+								<img src="img/testimonial-1.png" alt="#">
+								<p>Lorem ipsum dolor sit amet consectetur eliet adipiscing. Aliquam nec suscipit turpis, vel pretium eros. </p>
+								<h4 class="name">Ruhfayed Sakib</h4>
+								<div class="stars">
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-half text-warning"></i>
+                    </div>
+							</div>
+							<!-- End Single Testimonial -->
+							<!-- Start Single Testimonial -->
+							<div class="single-testimonial">
+								<img src="img/testimonial-1.png" alt="#">
+								<p>Lorem ipsum dolor sit amet consectetur eliet adipiscing. Aliquam nec suscipit turpis, vel pretium eros. </p>
+								<h4 class="name">Naimur Rahman</h4>
+								<div class="stars">
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-fill text-warning "></i>
+                        <i class="bi bi-star-half text-warning"></i>
+                    </div>
+							</div>
+							<!-- End Single Testimonial -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--/ End Testimonials -->
+		
+		<!-- Start Appointment -->
+		<section id="appointment" class="appointment">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="section-title">
+							<h2>We Are Always Ready to Serve You. Place Your Order Now!</h2>
+							<img src="img/section-img.png" alt="#">
+							<p>Experience the purity of our oils—order today and enjoy natural goodness delivered to your doorstep</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+    <div class="col-lg-6 col-md-12 col-12">
+        <form class="form" id="orderForm">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-12">
+                    <div class="form-group">
+                        <input name="name" type="text" placeholder="Full Name" required>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-12">
+                    <div class="form-group">
+                        <input name="email" type="email" placeholder="Email Address" required>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-12">
+                    <div class="form-group">
+                        <input name="phone" type="text" placeholder="Phone Number" required>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-12">
+                    <div class="form-group">
+                        <select name="oil_type" class="form-control" required>
+                            <option value="">Select Oil Type</option>
+                            <option value="Mustard Oil">Mustard Oil</option>
+                            <option value="Coconut Oil">Coconut Oil</option>
+                            <option value="Groundnut Oil">Groundnut Oil</option>
+                            <option value="Sesame Oil">Sesame Oil</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-12">
+                    <div class="form-group">
+                        <select name="quantity" class="form-control" required>
+                            <option value="">Select Quantity</option>
+                            <option value="500ml">500ml</option>
+                            <option value="1L">1L</option>
+                            <option value="5L">5L</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-12">
+                    <div class="form-group">
+                        <input name="delivery_date" type="text" placeholder="Preferred Delivery Date" id="datepicker" required>
+                    </div>
+                </div>
+                <div class="col-lg-12 col-md-12 col-12">
+                    <div class="form-group">
+                        <textarea name="address" placeholder="Address for Delivery" required></textarea>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-5 col-md-4 col-12">
+                    <div class="form-group">
+                        <div class="button">
+                            <button type="submit" class="btn">Place Order</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-7 col-md-8 col-12">
+                    <p>( We will confirm your order via a Text Message or Call )</p>
+                </div>
+            </div>
+            <div id="formMessage" class="mt-3"></div>
+        </form>
+		<div id="loader" style="display: none;">
+            <div class="spinner"></div>
+        </div>
+    </div>
+
+					<div class="col-lg-6 col-md-12 ">
+						<div class="appointment-image">
+							<img src="img/machine-two.jpg" alt="#">
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Appointment -->
+		
+		<!-- Start Newsletter Area
+		<section class="newsletter section">
+			<div class="container">
+				<div class="row ">
+					<div class="col-lg-6  col-12">
+						Start Newsletter Form
+						<div class="subscribe-text ">
+							<h6>Sign up for newsletter</h6>
+							<p class="">Cu qui soleat partiendo urbanitas. Eum aperiri indoctum eu,<br> homero alterum.</p>
+						</div>
+						End Newsletter Form
+					</div>
+					<div class="col-lg-6  col-12">
+						Start Newsletter Form
+						<div class="subscribe-form ">
+							<form action="mail/mail.php" method="get" target="_blank" class="newsletter-inner">
+								<input name="EMAIL" placeholder="Your email address" class="common-input" onfocus="this.placeholder = ''"
+									onblur="this.placeholder = 'Your email address'" required="" type="email">
+								<button class="btn">Subscribe</button>
+							</form>
+						</div>
+						End Newsletter Form
+					</div>
+				</div>
+			</div>
+		</section>
+		/End Newsletter Area
+		 -->
+		 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#orderForm').on('submit', function (e) {
+            e.preventDefault(); // Prevent default form submission
+
+            // Show the loader
+            $('#loader').show();
+            $('#formMessage').html(''); // Clear previous messages
+
+            setTimeout(() => {
+                // Simulate delay for 2 seconds
+                $.ajax({
+                    url: 'submit_order.php', // PHP file to handle the submission
+                    type: 'POST',
+                    data: $(this).serialize(),
+                    success: function (response) {
+                        $('#loader').hide(); // Hide the loader
+                        $('#formMessage').html('<div class="alert alert-success">Order placed successfully!</div>');
+                        $('#orderForm')[0].reset(); // Reset the form
+                    },
+                    error: function () {
+                        $('#loader').hide(); // Hide the loader
+                        $('#formMessage').html('<div class="alert alert-danger">Something went wrong. Please try again!</div>');
+                    }
+                });
+            }, 2000); // Delay for 2 seconds
+        });
+    });
+</script>
+
+
+<!-- Bootstrap 5 JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+		<!-- jquery Min JS -->
+        <script src="js/jquery.min.js"></script>
+		<!-- jquery Migrate JS -->
+		<script src="js/jquery-migrate-3.0.0.js"></script>
+		<!-- jquery Ui JS -->
+		<script src="js/jquery-ui.min.js"></script>
+		<!-- Easing JS -->
+        <script src="js/easing.js"></script>
+		<!-- Color JS -->
+		<script src="js/colors.js"></script>
+		<!-- Popper JS -->
+		<script src="js/popper.min.js"></script>
+		<!-- Bootstrap Datepicker JS -->
+		<script src="js/bootstrap-datepicker.js"></script>
+		<!-- Jquery Nav JS -->
+        <script src="js/jquery.nav.js"></script>
+		<!-- Slicknav JS -->
+		<script src="js/slicknav.min.js"></script>
+		<!-- ScrollUp JS -->
+        <script src="js/jquery.scrollUp.min.js"></script>
+		<!-- Niceselect JS -->
+		<script src="js/niceselect.js"></script>
+		<!-- Tilt Jquery JS -->
+		<script src="js/tilt.jquery.min.js"></script>
+		<!-- Owl Carousel JS -->
+        <script src="js/owl-carousel.js"></script>
+		<!-- counterup JS -->
+		<script src="js/jquery.counterup.min.js"></script>
+		<!-- Steller JS -->
+		<script src="js/steller.js"></script>
+		<!-- Wow JS -->
+		<script src="js/wow.min.js"></script>
+		<!-- Magnific Popup JS -->
+		<script src="js/jquery.magnific-popup.min.js"></script>
+		<!-- Counter Up CDN JS -->
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+		<!-- Bootstrap JS -->
+		<script src="js/bootstrap.min.js"></script>
+		<!-- Main JS -->
+		<script src="js/main.js"></script>   
+    </body>
+</html>       
